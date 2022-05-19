@@ -1,0 +1,29 @@
+#pragma once
+
+#define SCREEN_WIDTH 1000
+#define SCREEN_HEIGHT 600
+
+//Map Info
+#define MAP_WIDTH  1000
+#define MAP_HEIGHT 700
+#define SCALE 1
+#define Pi 3.1415926
+
+#define BOOMSIZE 20.0f
+
+#define BROWN 156, 73, 34
+#define BLUESKY 83, 207, 212
+#define TEAMBLUE 20, 90, 201
+#define TEAMPINK 255, 153, 240
+#define TEAMGREY 70, 70, 70
+
+enum class GAME_STATE {
+	RESET = 0,
+	GENERATE_TERRAIN = 1,
+	GENERATING_TERRAIN,
+	ALLOCATE_UNIT,
+	ALLOCATING_UNIT,
+	START_PLAY,
+	CAMERA_MODE,
+	GAME_OVER
+};

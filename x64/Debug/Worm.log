@@ -1,0 +1,125 @@
+﻿  Source.cpp
+  StateManager.cpp
+D:\VS2017Project\WormGame\Worm\Worm\Missile.h(15,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VS2017Project\WormGame\Worm\Worm\Missile.h(25,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\VS2017Project\WormGame\Worm\Worm\Missile.h(26,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\VS2017Project\WormGame\Worm\Worm\Debris.h(13,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\VS2017Project\WormGame\Worm\Worm\Debris.h(14,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\VS2017Project\WormGame\Worm\Worm\Worm.h(16,71): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\VS2017Project\WormGame\Worm\Worm\Worm.h(16,44): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  State_Game.cpp
+D:\VS2017Project\WormGame\Worm\Worm\Missile.h(15,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VS2017Project\WormGame\Worm\Worm\Missile.h(25,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\VS2017Project\WormGame\Worm\Worm\Missile.h(26,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\VS2017Project\WormGame\Worm\Worm\Debris.h(13,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\VS2017Project\WormGame\Worm\Worm\Debris.h(14,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\VS2017Project\WormGame\Worm\Worm\Worm.h(16,71): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\VS2017Project\WormGame\Worm\Worm\Worm.h(16,44): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  World.cpp
+D:\VS2017Project\WormGame\Worm\Worm\Missile.h(15,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VS2017Project\WormGame\Worm\Worm\Missile.h(25,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\VS2017Project\WormGame\Worm\Worm\Missile.h(26,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\VS2017Project\WormGame\Worm\Worm\Debris.h(13,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\VS2017Project\WormGame\Worm\Worm\Debris.h(14,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\VS2017Project\WormGame\Worm\Worm\Worm.h(16,71): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\VS2017Project\WormGame\Worm\Worm\Worm.h(16,44): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\VS2017Project\WormGame\Worm\Worm\World.cpp(15,21): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VS2017Project\WormGame\Worm\Worm\World.cpp(22,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\VS2017Project\WormGame\Worm\Worm\World.cpp(22,63): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\VS2017Project\WormGame\Worm\Worm\World.cpp(22,54): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\VS2017Project\WormGame\Worm\Worm\World.cpp(32,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\VS2017Project\WormGame\Worm\Worm\World.cpp(115,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS2017Project\WormGame\Worm\Worm\World.cpp(115,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS2017Project\WormGame\Worm\Worm\World.cpp(116,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS2017Project\WormGame\Worm\Worm\World.cpp(116,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS2017Project\WormGame\Worm\Worm\World.cpp(117,67): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS2017Project\WormGame\Worm\Worm\World.cpp(117,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS2017Project\WormGame\Worm\Worm\World.cpp(118,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS2017Project\WormGame\Worm\Worm\World.cpp(118,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS2017Project\WormGame\Worm\Worm\World.cpp(139,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\VS2017Project\WormGame\Worm\Worm\World.cpp(180,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VS2017Project\WormGame\Worm\Worm\World.cpp(180,32): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS2017Project\WormGame\Worm\Worm\World.cpp(180,23): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS2017Project\WormGame\Worm\Worm\World.cpp(185,36): warning C4305: '=': truncation from 'double' to 'float'
+D:\VS2017Project\WormGame\Worm\Worm\World.cpp(214,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\VS2017Project\WormGame\Worm\Worm\World.cpp(214,71): warning C4305: '+=': truncation from 'double' to 'float'
+D:\VS2017Project\WormGame\Worm\Worm\World.cpp(261,11): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS2017Project\WormGame\Worm\Worm\World.cpp(309,89): warning C4305: '=': truncation from 'double' to 'float'
+  Generating Code...
+  Worm.vcxproj -> D:\VS2017Project\WormGame\Worm\x64\Debug\Worm.exe
